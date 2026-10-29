@@ -90,15 +90,60 @@ I am a Computer Engineering undergraduate passionate about turning raw data into
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status / Links |
-| :--- | :--- | :--- | :--- |
-| **Resume Checker AI** | Comprehensive AI-powered resume builder, ATS analyzer, and job matcher featuring document parsing (PDF/DOCX/OCR), scoring metrics, and secure authentication. | React 19, Vite, Tailwind CSS, Node.js, Express, MongoDB, OCR | [🌐 Live Demo](https://resume-checker-ai-blush.vercel.app) • [💻 Code](https://github.com/kumar246subham-afk/Resume-Checker-AI) |
-| **eCommerce Platform** | Full-stack digital marketplace architecture supporting product listings, categorized catalogs, cart state management, and authenticated checkout workflows. | JavaScript, Node.js, Express, MongoDB, JWT | ⏳ *Deployment Pending* • [💻 Code](https://github.com/kumar246subham-afk/eCommerce) |
-| **Employee Payroll System** | Enterprise-pattern payroll console application demonstrating OOP principles: inheritance, virtual method overriding, polymorphism, and automated net salary computation. | C#, .NET, OOP | 💻 [Code](https://github.com/kumar246subham-afk/practical-2) |
-| **Expense Tracking Module** | Personal finance tracking engine engineered in .NET showcasing collections, structured exception handling, and timestamped transaction categories. | C#, .NET, Data Collections | 💻 [Code](https://github.com/kumar246subham-afk/practical3) |
-| **Student Admission System** | Academic records management application utilizing OOP encapsulation and class constructors to register, validate, and display student dossiers. | C#, .NET, OOP Encapsulation | 💻 [Code](https://github.com/kumar246subham-afk/pratical-1) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> 📌 *Note on upcoming data projects*: Exploratory Data Analysis notebooks on Netflix viewership and AI fraud detection are currently in active development in my local environment and will be published here upon release.
+### ⚡ **ConvertX**
+> **Online Document & File Conversion Toolkit**
+
+A modern, privacy-first document utility delivering **17 functional manipulation and conversion tools** (PDF merge, split, compress, protect, watermark, OCR text extraction, office document conversions) with ephemeral processing and zero persistent file storage.
+
+<br>
+
+**🛠️ Built With:**  
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+<br>
+
+**🔗 Quick Links:**  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=render&logoColor=white)](https://convertx-client.onrender.com)
+[![Source Code](https://img.shields.io/badge/Source_Code-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumar246subham-afk/convertx)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 **Resume-Checker-AI**
+> **AI-Powered ATS Resume Builder & Matcher**
+
+An intelligent career utility that analyzes resumes for ATS readability, evaluates keyword alignment against target job descriptions, computes actionable improvement metrics, and extracts data across PDF, DOCX, and scanned documents.
+
+<br>
+
+**🛠️ Built With:**  
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br>
+
+**🔗 Quick Links:**  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00DFD8?style=for-the-badge&logo=vercel&logoColor=black)](https://resume-checker-ai-blush.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumar246subham-afk/Resume-Checker-AI)
+
+</td>
+</tr>
+</table>
 
 ---
 
