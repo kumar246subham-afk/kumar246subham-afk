@@ -183,14 +183,12 @@ An intelligent career utility that analyzes resumes for ATS readability, evaluat
   <a href="mailto:subhamcacz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-handle" target="_blank">
+  <a href="https://www.linkedin.com/in/subham-kumar-keshari-28b349321/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/kumar246subham-afk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
-  <p><em>*Remember to update the placeholder LinkedIn URL with your personal LinkedIn public handle!*</em></p>
 
 </div>
 
