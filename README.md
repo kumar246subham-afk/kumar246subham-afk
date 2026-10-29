@@ -11,10 +11,10 @@
     <a href="https://github.com/kumar246subham-afk">
       <img src="https://komarev.com/ghpvc/?username=kumar246subham-afk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     </a>
-    <a href="mailto:subhamcacz@gmail.com">
-      <img src="https://img.shields.io/badge/Email-subhamcacz%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="mailto:kumar246sub@gmail.com">
+      <img src="https://img.shields.io/badge/Email-kumar246sub%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-handle">
+    <a href="https://www.linkedin.com/in/subham-kumar-keshari-28b349321/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
