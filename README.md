@@ -11,8 +11,8 @@
     <a href="https://github.com/kumar246subham-afk">
       <img src="https://komarev.com/ghpvc/?username=kumar246subham-afk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
     </a>
-    <a href="mailto:kumar246sub@gmail.com">
-      <img src="https://img.shields.io/badge/Email-kumar246sub%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumar246subham@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-kumar246subham%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://www.linkedin.com/in/subham-kumar-keshari-28b349321/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -31,7 +31,7 @@ I am a Computer Engineering undergraduate passionate about turning raw data into
 - 📊 **Data Science & Analytics**: Analyzing complex datasets using Python, SQL, Excel, and Power BI dashboards to extract actionable business metrics.
 - 💻 **Full-Stack Engineering**: Developing modern single-page applications with React, Tailwind CSS, Node.js, Express, and MongoDB.
 - 🏛️ **Academic Base**: B.Tech in Computer Engineering at **Marwadi University**, Rajkot, Gujarat, India.
-- 📫 **Reach Me**: [subhamcacz@gmail.com](mailto:subhamcacz@gmail.com)
+- 📫 **Reach Me**: [kumar246subham@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=kumar246subham@gmail.com)
 
 ---
 
@@ -180,7 +180,7 @@ An intelligent career utility that analyzes resumes for ATS readability, evaluat
 
 <div align="center">
 
-  <a href="mailto:subhamcacz@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumar246subham@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/subham-kumar-keshari-28b349321/" target="_blank">
