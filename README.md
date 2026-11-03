@@ -156,6 +156,37 @@ An intelligent career utility that analyzes resumes for ATS readability, evaluat
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 **AICheck**
+> **AI Content Detection & Human Writing Pattern Analyzer**
+
+An AI-powered document analysis platform that analyzes linguistic and statistical writing patterns, provides sentence-level insights, and generates downloadable PDF audit reports. Supports document-based analysis and user authentication.
+
+<br>
+
+**🛠️ Built With:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase_Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat-square&logo=firebase&logoColor=white)
+![PDFKit](https://img.shields.io/badge/PDFKit-FF6B6B?style=flat-square&logo=adobeacrobatreader&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+<br>
+
+**🔗 Quick Links:**  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00DFD8?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-check-coral.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source_Code-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumar246subham-afk/AICheck)
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
