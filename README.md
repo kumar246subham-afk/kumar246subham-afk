@@ -226,10 +226,11 @@ An AI-powered document analysis platform that analyzes linguistic and statistica
 ---
 
 <div align="center">
-  <sub>Crafted with passion & precision by <strong>Subham Kumar Keshari</strong></sub>
+  <sub>Crafted with passion & precision by <strong>Subham Kumar Keshari</strong> | Collaborating with <a href="https://github.com/sumit-2007-git"><strong>Sumit Kumar</strong></a></sub>
 </div>
 <!-- achievement: pull-shark-2 -->
 <!-- achievement: pull-shark-ready -->
 <!-- pull-shark: milestone-1 -->
 <!-- pull-shark: milestone-final -->
 <!-- pair-extraordinaire: unlocked -->
+<!-- pair-extraordinaire: verified-coauthor-sumit-2007-git -->
