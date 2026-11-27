@@ -207,6 +207,15 @@ An AI-powered document analysis platform that analyzes linguistic and statistica
 
 ---
 
+### ⚡ LeetCode Performance
+
+<div align="center">
+  <a href="https://leetcode.com/u/subham-2026/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/subham-2026?theme=dark" alt="Subham's LeetCode Stats" />
+  </a>
+</div>
+
+---
 ### 📬 Connect With Me
 
 <div align="center">
